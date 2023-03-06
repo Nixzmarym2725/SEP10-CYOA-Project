@@ -1,3 +1,3 @@
 You run passed the zombie and onto the street. You then see a hord of zombies running at you. You act on instinct and...
 
-[Take them one by one](one-by-one.md) or [Leroy it](Leroy-it.md)
+[Take them one by one](one-by-one.md) or [Leroy it](../window/leroy-it.md)
