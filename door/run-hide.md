@@ -2,4 +2,4 @@ You run into your house and hide under your bed. However, the zombie eventually 
 
 You starve to death and no one cared.
 
-[Back to start](start.md)
+[Back to start](../start.md)
